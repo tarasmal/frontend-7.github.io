@@ -1,0 +1,27 @@
+.goodsCart {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.fruitItem {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.fruitImage {
+    max-width: 100px;
+    height: auto;
+}
+
+.fruitName {
+    font-size: 1.2em;
+    margin: 5px 0;
+}
+
+.fruitPrice {
+    font-size: 1em;
+    color: #666;
+}
